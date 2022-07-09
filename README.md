@@ -1,24 +1,29 @@
-# README
+# かしチャン
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
 
-Things you may want to cover:
+### サイトテーマ
+<お菓子が好きな人たちがオススメのお店を紹介し合うSNSサイト>
 
-* Ruby version
+### テーマを選んだ理由
+<お菓子が好きなのですが、他の人のオススメのお店やオススメの情報を知りたいと思ったため>
 
-* System dependencies
+### ターゲットユーザ
+<お菓子が好きな人>
 
-* Configuration
+### 主な利用シーン
+<自分が見つけたお菓子屋さんの情報を共有したいとき>
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
